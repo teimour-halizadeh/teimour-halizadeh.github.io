@@ -83,8 +83,8 @@ author:
   name             : "Teimour Hosseinalizadeh"
   avatar           : "profile.jpg"
   bio              : "Hi! My name is Teimour. I'm currently a Ph.D. student and this is my website."
-  location         : "Location"
-  employer         :
+  location         : 
+  employer         :  "https://www.rug.nl/staff/t.hosseinalizadeh/?lang=en"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PjrYo48AAAAJ&hl=en&authuser=2"
   email            :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/teimour-hosseinalizadeh/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :  "teimour-hosseinalizadeh/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
