@@ -12,6 +12,6 @@ My name is Teimour Hosseinalizadeh. Currently, I'm a Ph.D. student at the Univer
 
 # Updates!
 
-**Conference participation, July 2023:** I presented our recent results on privacy preserving methods at IFAC world congress held in Yokohama, Japan. Check out the details of the [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PjrYo48AAAAJ&authuser=2&citation_for_view=PjrYo48AAAAJ:LkGwnXOMwfcC)! Or watch the recorded presentation!
+**Conference participation, July 2023:** I presented our recent results on privacy preserving methods at IFAC world congress held in Yokohama, Japan. Check out the details of the [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PjrYo48AAAAJ&authuser=2&citation_for_view=PjrYo48AAAAJ:LkGwnXOMwfcC)! Or watch the [recorded presentation](https://drive.google.com/file/d/1OOFswcm1wjZ_q25F9hChBFCBCY3-xKoo/view?usp=drive_link)!
 
 
