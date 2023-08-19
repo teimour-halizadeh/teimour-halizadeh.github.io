@@ -2,7 +2,7 @@
 title: "Private Computation of Polynomials over Networks"
 collection: publications
 permalink: /publication/IEEE-CDC-Polynomial
-excerpt: "This is a paper published in IEEE CDC 2021. The paper proposes methods for private computation of polynomials in network systems"
+excerpt: "This is a paper published in IEEE CDC 2021. The paper proposes methods for private computation of polynomials in network systems."
 date: '2021-12-14'
 venue: '2021 60th IEEE Conference on Decision and Control (CDC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9683378'

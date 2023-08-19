@@ -4,7 +4,7 @@ Authors
 "
 collection: publications
 permalink: /publication/IFAC-prescribed-set
-excerpt: "In this research, we studied how a prescribed confusion set can be created for an adversary in data releasing systems"
+excerpt: "In this research, we studied how a prescribed confusion set can be created for an adversary in data releasing systems."
 date: '2023-07-15'
 venue: 'IFAC World Congress 2023,
 Yokohama, JAPAN'

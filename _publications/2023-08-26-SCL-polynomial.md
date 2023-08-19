@@ -3,7 +3,7 @@ title: "Private computation of polynomials over networks"
 collection: publications
 permalink: /publication/SCL-polynomial
 excerpt: "In this research, we study how we can privately compute a polynomial of agents over a graph using 
-techniques from cryptography"
+techniques from cryptography."
 date: '2022-08-01'
 venue: 'Systems & Control Letters'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0167691122001001'

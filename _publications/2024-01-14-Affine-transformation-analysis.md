@@ -3,7 +3,7 @@ title: "Privacy Analysis of Affine Transformations in Cloud-based MPC: Vulnerabi
 "
 collection: publications
 permalink: /publication/affine-transformations
-excerpt: "This research deals with analyzing privacy preserving properties of random affine transformations when they are adopted for MPC problems"
+excerpt: "This research deals with analyzing privacy preserving properties of random affine transformations when they are adopted for MPC problems."
 date: '2024-01-14'
 venue: 'Preprint'
 paperurl: 'https://arxiv.org/abs/2401.05835'
