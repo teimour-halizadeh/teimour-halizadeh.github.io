@@ -8,14 +8,14 @@ main:
         
 
     
-  - title: "Talks"
+  - title: "Presentations"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching & Supervision"
     url: /teaching/ 
 
-  - title: "Blog Posts"
-    url: /year-archive/  
+#  - title: "Blog Posts"
+#   url: /year-archive/  
 
   - title: "CV"
     url: /cv/
