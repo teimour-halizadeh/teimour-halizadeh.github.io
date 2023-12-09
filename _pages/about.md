@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Teimour Hosseinalizadeh. Currently, I'm a Ph.D. student at the [University of Groningen](https://www.rug.nl/staff/t.hosseinalizadeh/), the Netherlands. 
+My name is Teimour Hosseinalizadeh. I'm a Ph.D. student at the [University of Groningen](https://www.rug.nl/staff/t.hosseinalizadeh/), the Netherlands. 
 For now, I'm working on privacy issues in Cyber-Physical System. I'm based in Smart Manufacturing System  group, and my main supervisor is Nima Monshizadeh.
 
 # Updates!
+
+**Research Visit, October 2023:** I had the pleasure to spend 5 weeks with the [Control and Cyberphysical systems group](https://rcs.mb.tu-dortmund.de/) at TU Dortmund, a vibrant and productive center to study privacy in optimization problems. 
+I would like to thank the chair of the group Moritz Schulze Darup for having me as their guest. Many thanks also to the group members Nils, Philip, Janis, and Johannes for heating scientific discussion. I also want to thank my supervisor,  Nima Monshizadeh, at the University of Groningen for his support.
+I hope the cooperation leads to useful results in the near future.
 
 **Conference participation, July 2023:** I presented our recent results on privacy preserving methods at IFAC world congress held in Yokohama, Japan. Check out the details of the [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PjrYo48AAAAJ&authuser=2&citation_for_view=PjrYo48AAAAJ:LkGwnXOMwfcC)! Or watch the [recorded presentation](https://www.youtube.com/watch?v=f_8OUMt01bo)!
 
