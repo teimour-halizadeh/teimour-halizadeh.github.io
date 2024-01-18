@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Teimour Hosseinalizadeh. I'm a Ph.D. student at the [University of Groningen](https://www.rug.nl/staff/t.hosseinalizadeh/), the Netherlands. 
+My name is Teimour Hosseinalizadeh. I'm a Ph.D. student at  [University of Groningen](https://www.rug.nl/staff/t.hosseinalizadeh/), the Netherlands. 
 For now, I'm working on privacy issues in Cyber-Physical System. I'm based in Smart Manufacturing System  group, and my main supervisor is Nima Monshizadeh.
 
 # Updates!
