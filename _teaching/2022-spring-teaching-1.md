@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-spring-teaching-1
 venue: "University of Groningen"
 date: 2022-02-01
 #location: "City, Country"
