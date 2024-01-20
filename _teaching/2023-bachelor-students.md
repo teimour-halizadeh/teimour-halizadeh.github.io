@@ -9,6 +9,6 @@ date: 2023-12-09
 ---
 Based on my Ph.D. project, some mini projects were defined.
 The following is a list of Bachelor students who I have supervised for the final project:
-* **P. Schep**- 
-* **J. Kuijvenhoven**- *Privacy preservation for chemical reactors: a suboptimal method based on Gaussian noise*
-* **E. Golan**- *Sharing without showing* 
+* **P. Schep**- *Outsourced Private Model Predictive Control*, 2023.
+* **J. Kuijvenhoven**- *Privacy preservation for chemical reactors: a suboptimal method based on Gaussian noise*, 2022.
+* **E. Golan**- *Sharing without showing*, 2021. 

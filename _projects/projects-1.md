@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "This is a short description of my project"
+title: "Ph.D. Project"
+excerpt: " See Also [Here](https://www.rug.nl/research/smart-manufacturing-systems/researchprojects/projectteimour)
+
+. Cyber-physical systems (CPSs) are engineered systems that are built from and depend upon the seamless integration of computational algorithms and physical components. Advances in CPSs will enable capability, adaptability, scalability, resiliency, safety, security, and usability that will far exceed the simple embedded systems of today. CPSs technology will transform the way people interact with engineered systems, just as the Internet has transformed the way people interact with information. It is clear that CPSs technologies are central to achieving the vision of a “Smart City” that spans multiple sectors such as energy, transportation, and healthcare and includes the important attributes of efficiency, safety, and privacy. A smart city introduces novel challenges to its citizens along with its life-changing benefits. One of these challenges is privacy consideration. The main objective of this research is to argue that in CPSs there exists an intermediate solution to use privacy-sensitive (local) data without compromising the privacy of users."
 collection: projects
 ---
-
-Here I put a description of my project
+Cyber-physical systems (CPSs) are engineered systems that are built from and depend upon the seamless integration of computational algorithms and physical components. Advances in CPSs will enable capability, adaptability, scalability, resiliency, safety, security, and usability that will far exceed the simple embedded systems of today. CPSs technology will transform the way people interact with engineered systems, just as the Internet has transformed the way people interact with information. It is clear that CPSs technologies are central to achieving the vision of a “Smart City” that spans multiple sectors such as energy, transportation, and healthcare and includes the important attributes of efficiency, safety, and privacy. A smart city introduces novel challenges to its citizens along with its life-changing benefits. One of these challenges is privacy consideration. The main objective of this research is to argue that in CPSs there exists an intermediate solution to use privacy-sensitive (local) data without compromising the privacy of users.
