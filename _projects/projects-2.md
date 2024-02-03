@@ -6,7 +6,6 @@ excerpt: "
 
 
 collection: projects
-draft: true
 ---
 
-Here I describe things ... 
+Description
