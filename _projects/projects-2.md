@@ -2,7 +2,7 @@
 title: "Gaussian Mechanism Design for Prescribed Privacy Sets in Data Releasing Systems"
 excerpt: " 
 
-![GitHub Logo](/zone.jpg)"
+![GitHub Logo](/images/zone.png)"
 
 
 collection: projects
