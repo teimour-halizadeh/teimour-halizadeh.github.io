@@ -13,6 +13,8 @@ For now, I'm working on privacy issues in Cyber-Physical System. I'm based in Sm
 
 # Updates!
 
+**Conference participation, March 2024:** I have presented  our recent [pre-print](https://arxiv.org/abs/2401.05835) at [43RD BENELUX MEETING ON SYSTEMS AND CONTROL](https://www.beneluxmeeting.nl/2024), held in Blankenberge, Belgium.
+
 **Preprint released, January 2024:** Check out our recent preprint ["Privacy Analysis ofAffine Transformations in Cloud-based MPC: Vulnerability to Side-knowledge"](https://arxiv.org/abs/2401.05835). Here we analyze transformations as privacy preserving techniques for Cloud-based quadratic optimizations. Many thanks to the co-authors! The code for the preprint is available [here](https://github.com/teimour-halizadeh/affine_transformation_code)
 
 **Research Visit, October 2023:** I had the pleasure to spend 5 weeks with the [Control and Cyberphysical systems group](https://rcs.mb.tu-dortmund.de/) at TU Dortmund, a vibrant and productive center to study privacy in optimization problems. 
